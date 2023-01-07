@@ -3,28 +3,90 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Class Name - Year
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Welcome to Class Name! My name is Joe Collard and I am so excited to be your
+instructor this **Fall/Winter/Spring**!   This website will be your landing page
+for instructions for the majority of the activities you will complete throughout
+the course. One of the largest benefits of this site is the ability to use the
+**Search** feature located at the top of each page which searches the entirety
+of this site.
 
-More specifically, the created site:
+## Expectations
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+* Class will begin promptly at XXX. If you are going to be late, you should
+  message me prior to class.
+* During class, you should have your camera on at all times. If you leave your
+  computer, you should leave your camera on so I know that you are not currently
+  hearing me. (If you need to step away, that is fine just let me know in the chat).
+* Be respectful of your peers by keeping your microphone muted when you're not
+  speaking.
+* If someone else is currently speaking, be sure to use the raise hand feature
+  which will add you to a raised hand queue. This ensure you will be called on
+  in the order that hands were raised. You should **NOT** speak over me or
+  another student. Doing so may result in being muted.
+* You should **NOT** use Slack/Discord/Phones or any other messaging programs during
+  class without prior permission. If you need to send a message outside of the
+  classroom chat, please ask first (you can send me a private message).
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## Daily Agenda
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Each day there will be a class agenda that follows the following rough outline:
 
-To get started with creating a site, just click "[use this template]"!
+### 1. QotD (5 minutes)
 
-----
+The first 5 minutes of most classes will begin with a **Question of the Day**.
+Your responses will be submitted via [Google Classroom]. There is no reason to
+prepare for these questions ahead of time. In general, these are designed to get
+your brain juices flowing, practice your written communication skills, and
+prepare you for the class discussion. **Note**: You are expected to write 3 - 5
+well thought out sentences. During this time, you should do your best to remain
+quiet and allow your peers to write their answers.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+### 2. Discussion (5 minutes)
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+After everyone has responded to the **QotD**, there will be a brief class
+discussion where you are encouraged to share your response as well as discuss
+the responses of others. Although you do not need to share every class during
+this time, you are expected to participate throughout the year. That said, I may
+call on you so be prepared to share your thoughts.
+
+### 3. Ask Me Anything (5 minutes)
+
+During this time, I will answer any questions that were asked since the previous
+class as well as accept additional questions. You should feel free to **Ask Me
+Anything**! Want to know what I ate for breakfast? Go for it! Want to know which
+Dungeons and Dragons class is my favorite? Ask away!
+
+### 4. Activity (40 minutes)
+
+This is where the majority of your time will be spent during this class. I am a
+true believer that the best way to learn is by **doing**. During this time, you
+will typically be working directly on an activity. Though, on occasion I may
+have a demo or code along where we discuss an activity as a class.
+
+In most cases, I will open break out rooms during this time and you may work on
+these activities by yourself or in a group of at most 3 students. However, there
+may be activities for which group work is not allowed **OR** group work is
+required. For activities where group work is required, groups will be assigned
+randomly.
+
+{: .tip } 
+> If you are having trouble or get stuck during an activity, you are encouraged
+> to push yourself to find an answer without **immediately** asking a question. 
+> 
+> However, I am absolutely happy to answer any questions you might have. If you
+> have no idea what to do or where to look, do not hesitate to ask for help.
+> Additionally, if you find you are stuck for more than **5 - 10** minutes, you
+> should ask for help.
+
+
+## Submissions / Out of Class Communication
+
+* All work will be submitted via [Google Classroom]. You will receive a join
+  code during class.
+* All asynchronous communications should happen via our [Slack] channel. If you
+  don't have access, let me know immediately.
+
+
+{% include Links.md %}

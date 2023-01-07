@@ -1,8 +1,19 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Class Name - Year
+description: Welcome to Class Name - Year
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://jcollard.github.io/repo-name
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# aux_links:
+#   Google Classroom: https://classroom.google.com/
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: note
+    color: yellow
+  tip:
+    title: tip
+    color: blue
