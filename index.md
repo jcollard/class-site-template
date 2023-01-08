@@ -1,9 +1,10 @@
 ---
-title: Home
+title: Syllabus
 layout: home
 ---
 
 # Class Name - Year
+{: .no_toc }
 
 Welcome to Class Name! My name is Joe Collard and I am so excited to be your
 instructor this **Fall/Winter/Spring**!   This website will be your landing page
@@ -12,7 +13,16 @@ the course. One of the largest benefits of this site is the ability to use the
 **Search** feature located at the top of each page which searches the entirety
 of this site.
 
-## Expectations
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+## Classroom Expectations
 
 * Class will begin promptly at XXX. If you are going to be late, you should
   message me prior to class.
@@ -80,6 +90,72 @@ randomly.
 > Additionally, if you find you are stuck for more than **5 - 10** minutes, you
 > should ask for help.
 
+### 5. Reflections (5 minutes)
+
+During the last 5 minutes of class, all break out rooms will be closed and you
+will be asked to complete a set of reflection questions for each day. You should
+**NOT** disconnect from the video session until I have acknowledge receipt of
+your reflection.
+
+Additionally, during this time, you are encouraged to post questions to the
+**AMA** for the following class.
+
+## Developer Log (Homework)
+
+Learning a skill takes daily practice! On most days, you will not be assigned
+homework to complete. Instead, outside of this class you are expected to
+complete **N** minutes of work per week practicing skills related to **CLASS
+TOPIC**. In general, this can be **ANYTHING** related to the class.
+
+{: .note } 
+If you have not completed a class activity that is currently assigned, your time
+should **first** be spent finishing that activity. Then, if you have time
+remaining, you should spend that time working to further your skills.
+
+To help track your progress throughout the term, you will maintain and keep
+a **Developer Log**. Each time you work on furthering your skills related to
+**CLASS TOPIC**, you should create a "Sign-on" entry. Then, when you have finished
+working, you should create a "Sign-of" entry.
+
+### Sign-on Entry
+
+To help focus your efforts during a working session, you will create a
+**Sign-on**. It should include the following information:
+
+1. How much time do you **plan** to spend during this working session?
+   * This will help you gauge the goals you set out when answer the next 
+2. What do you **want** to accomplish during this session?
+   * You should be as specific as possible. Vague accomplishments are hard to
+     reach and often result in poor outcomes.
+   * Bad goals: "Study", "Find a YouTube video", "Write code"
+   * Good goals:
+     * Study how to write loops and write at least 3 different loops  
+     * Watch and code along to Bracky's YouTube video on if statements. (https://youtube.com/some-link)
+     * Add 2 new locations to my Adventure Quest project: A dungeon cell and a hallway.
+3. After completing the first 2 steps, you should write down the date and time.
+
+{: .note }
+Steps 1 and 2 do **NOT** count toward your time growing your skills.
+
+### Sign-off Entry
+
+After you have completed your working session, you should create a **Sign-off**.
+It should include the following information:
+
+1. Write down the date and time.
+2. Calculate how much time you **actually** spent during this working session.
+3. What did you **actually** accomplish?
+   * It is absolutely okay if you didn't achieve what you set out in your
+     **sign-on**. As you work throughout the term you will become better at time
+     estimation.
+   * In many cases, you may have actually done something that wasn't even in
+     your **sign-on**. In these cases, record what you did being as specific as
+     possible.
+4. Add a reflection, you can (and should) use one or more of the following templates
+    * I learned ...
+    * I was confused about ...
+    * Next time I will ...
+    * I was able to overcome ...
 
 ## Submissions / Out of Class Communication
 
